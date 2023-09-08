@@ -5,10 +5,10 @@
 
 <p align="center">
   <em>
-    This is me <b>Alvin Rama Saputra</b>, a final year <b>Web Developer</b> undergraduate from <a href="https://if.upnjatim.ac.id/"> <b>Informatics UPN "Veteran"</b>, Jawa Timur</a>.
+    This is me <b>Alvin Rama Saputra</b>, a final year <b>Web Developer</b> undergraduate from <a href="https://if.upnjatim.ac.id/"> <b>Informatics UPN "Veteran" Jawa Timur</b></a>.
     An aspiring <b>UI/UX Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Front-End Developer Enthusiast.</b> 
   <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <b><i>"--- Developing and Processing ---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
