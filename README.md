@@ -67,7 +67,8 @@
 
 ---
 
-<details open="">
+<!--<details open=""> -->
+<details>
 <summary>
  📔 GitHub Stats:
 </summary>
