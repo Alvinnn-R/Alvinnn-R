@@ -49,7 +49,7 @@
 </details>
 <br>
 
-<details>
+<details open="">
 <!-- <summary> -->
 <!--   🌱 Looking forward to learn: -->
 <!-- </summary> -->
@@ -68,7 +68,7 @@
 ---
 
 <!--<details open=""> -->
-<details open="true">
+<details open="">
 <summary>
  📔 GitHub Stats:
 </summary>
