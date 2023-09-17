@@ -21,7 +21,7 @@
 
 ---
 
-<details>
+<details open="">
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -49,7 +49,7 @@
 </details>
 <br>
 
-<details open="">
+<!--<details>-->
 <!-- <summary> -->
 <!--   🌱 Looking forward to learn: -->
 <!-- </summary> -->
