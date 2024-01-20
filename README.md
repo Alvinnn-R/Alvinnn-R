@@ -15,7 +15,7 @@
 
 - 🧞 I'm just learning and want to learn programming.
 - 🔭 I am currently studying at UPN "Veteran" East Java
-- 👯 I want to learn and collaborate with Fullstack Web and Android Development projects.
+- 👯 I want to learn and collaborate with Web Developer.
 - ⚡ Interesting fact: I love Sports.
 <br>
 
