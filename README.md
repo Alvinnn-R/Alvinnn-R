@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    This is me <b>Alvin Rama Saputra</b>, a final year <b>Web Developer</b> undergraduate from <a href="https://if.upnjatim.ac.id/"> <b>Informatics UPN "Veteran" Jawa Timur</b></a>.
-    An aspiring <b>UI/UX Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Front-End Developer Enthusiast.</b> 
+    This is me <b>Alvin Rama Saputra</b>, a student majoring in <a href="https://if.upnjatim.ac.id/"> <b>Informatics</b></a> at UPN "Veteran" Jawa Timur.
+    An aspiring <b>UI/UX Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Front-End Developer Enthusiast.</b>
   <br>
   <b><i>"--- Developing and Processing ---"</i></b>
 </p>
