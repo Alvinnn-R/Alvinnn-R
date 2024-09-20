@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alvin Rama Saputra</h1>
 <p align="center">
-  <a href="https://github.com/Alvinnn-R/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Web+Developer;Student+Informatics+UPN+Veteran+Jawa+Timur;WEB%20|%20UI/UX%20Enthusiast;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Alvinnn-R/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Web+Developer;Student+Informatics+UPN+Veteran+Jawa+Timur;&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
     This is me <b>Alvin Rama Saputra</b>, a student majoring in <a href="https://if.upnjatim.ac.id/"> <b>Informatics</b></a> at UPN "Veteran" Jawa Timur.
-    An aspiring <b>UI/UX Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Front-End Developer Enthusiast.</b>
+    An aspiring <b>Competitive Programmer</b>&nbsp; and <b> Web Developer Enthusiast.</b>
   <br>
   <b><i>"--- Developing and Processing ---"</i></b>
 </p>
@@ -26,13 +26,10 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
-<!-- <code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code> -->
-<!-- <code><a href="https:https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code> -->
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <!-- <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code> -->
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<!-- <code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code> -->
 <!-- <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code> -->
 <!-- <code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code> -->
 <!-- <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code> -->
@@ -100,9 +97,9 @@
   <a href="https://www.instagram.com/alvnrma_s/">
     <img align="left" alt="Alvin Rama Saputra | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-<!--    <a href="https://www.facebook.com/profile.php?id=100003874786181">
-    <img align="left" alt="Alvin Rama Saputra| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a> -->
+   <a href="https://medium.com/@alvinramasaputra03">
+    <img align="left" alt="Alvin Rama Saputra| Medium" width="26px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
+  </a>
    <a href="https://github.com/Alvinnn-R">
     <img align="left" alt="Alvin Rama Saputra| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
