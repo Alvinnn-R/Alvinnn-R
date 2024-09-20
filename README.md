@@ -10,9 +10,7 @@
   <br>
   <b>
     <p align="center">
-  <i><blockquote style="text-align: center; border: 2px solid #008CBA; padding: 15px; border-radius: 10px; background-color: #f0f8ff; font-size: 1.2rem; color: #333;">
-    <em>"Still developing and processing the next big thing."</em>
-</blockquote></i>
+  <i>"Still developing and processing the next big thing."</i>
 </p>
   </b>
 
