@@ -8,7 +8,9 @@
     This is me <b>Alvin Rama Saputra</b>, a student majoring in <a href="https://if.upnjatim.ac.id/"> <b>Informatics</b></a> at UPN "Veteran" Jawa Timur.
     An aspiring <b>Competitive Programmer</b>&nbsp; and <b> Web Developer Enthusiast.</b>
   <br>
-  <b><i>"--- Developing and Processing ---"</i></b>
+  <b><blockquote style="border-left: 4px solid #008CBA; padding: 10px 20px; font-style: italic; background-color: #f9f9f9;">
+    "Still developing and processing the next big thing."
+</blockquote></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
