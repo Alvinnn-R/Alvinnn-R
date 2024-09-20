@@ -8,10 +8,10 @@
     This is me <b>Alvin Rama Saputra</b>, a student majoring in <a href="https://if.upnjatim.ac.id/"> <b>Informatics</b></a> at UPN "Veteran" Jawa Timur.
     An aspiring <b>Competitive Programmer</b>&nbsp; and <b> Web Developer Enthusiast.</b>
   <br>
-  <b><blockquote style="text-align: center; border: 2px solid #008CBA; padding: 15px; border-radius: 10px; background-color: #f0f8ff; font-size: 1.2rem; color: #333;">
+  <blockquote style="text-align: center; border: 2px solid #008CBA; padding: 15px; border-radius: 10px; background-color: #f0f8ff; font-size: 1.2rem; color: #333;">
     <em>"Still developing and processing the next big thing."</em>
 </blockquote>
-</b>
+
 </p>
 
 <h3>Little facts about me 🧑</h3>
