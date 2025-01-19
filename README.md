@@ -112,9 +112,6 @@
    <a href="https://medium.com/@alvinramasaputra03">
     <img align="left" alt="Alvin Rama Saputra| Medium" width="26px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
   </a>
-   <a href="https://github.com/Alvinnn-R">
-    <img align="left" alt="Alvin Rama Saputra| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
   <br>
   
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Alvinnn-R&label=Profile%20views&color=0e75b6&style=flat" alt="Alvinnn-R" /> </p>
